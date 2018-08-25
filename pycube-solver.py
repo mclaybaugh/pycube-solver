@@ -256,7 +256,7 @@ class RubiksCube:
 		self.right = self.top
 		self.top = self.left
 		self.left = self.bot
-		self.bot = self.right
+		self.bot = temp_right
 	def zc(self):
 		print ("zc")
 		temp_right = self.right
