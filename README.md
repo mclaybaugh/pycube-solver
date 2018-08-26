@@ -5,7 +5,7 @@ This script defines a RubiksCube class that stores the state of a
 The class also can read in an initial state from a file, and print
 the state in the same manner to stdout.
 
-It currently does not fully solve the cube, but only the first layer.
+It currently does not fully solve the cube, but only the white cross.
 
 ## TODO
 
