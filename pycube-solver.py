@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 # Developer: Michael Claybaugh
 # Started: Thursday, February 2, 2017
 # 5-27-17: -making script work again now that I have Python 3.6 installed. 
