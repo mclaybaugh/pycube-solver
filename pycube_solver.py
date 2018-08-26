@@ -10,7 +10,7 @@
 # Status: in progress
 # Description: python program/script to solve a rubiks cube the way a human
 #              would (white cross, white corners, middle edges,
-from RubiksCube import RubiksCube, WHITE, GREEN, RED, ORANGE, BLUE, YELLOW
+from rubiks_cube import RubiksCube, WHITE, GREEN, RED, ORANGE, BLUE, YELLOW
 
 STATE_FILE_NAME = r"cube-state.txt"
 
