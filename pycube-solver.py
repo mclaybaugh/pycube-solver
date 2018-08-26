@@ -1,15 +1,15 @@
 #!/usr/bin/python3
 # Developer: Michael Claybaugh
 # Started: Thursday, February 2, 2017
-# 5-27-17: -making script work again now that I have Python 3.6 installed. 
+# 5-27-17: -making script work again now that I have Python 3.6 installed.
 #           adding parenthesis to "print" calls
-# 5-28-17: -corrected 'x' and 'xc' moves in derived rotations sections, they 
+# 5-28-17: -corrected 'x' and 'xc' moves in derived rotations sections, they
 #           were in the opposite places
-#          - changed "ColorSidePair" to "SideColorPair" to match constructor 
+#          - changed "ColorSidePair" to "SideColorPair" to match constructor
 #            order of parameters
 # Status: in progress
-# Description: python program/script to solve a rubiks cube the way a human 
-#              would (white cross, white corners, middle edges, 
+# Description: python program/script to solve a rubiks cube the way a human
+#              would (white cross, white corners, middle edges,
 from RubiksCube import RubiksCube, WHITE, GREEN, RED, ORANGE, BLUE, YELLOW
 
 CubeStateFileName = r"cube-state.txt"
