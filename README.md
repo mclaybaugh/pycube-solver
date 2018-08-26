@@ -9,6 +9,6 @@ It currently does not fully solve the cube, but only the first layer.
 
 ## TODO
 
-1. Separate class and solving logic into files
+1. ~~Separate class and solving logic into files~~
 2. Finish logic to solve the cube completely
 3. Document the data structures and algorithms used
